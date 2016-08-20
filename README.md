@@ -1,2 +1,2 @@
 # vls
-Just
+g++ vls.cpp
